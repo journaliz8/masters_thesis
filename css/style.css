@@ -2,8 +2,10 @@
 
 /** Addtional fonts go here: https://gwfh.mranftl.com/fonts **/
 
-html,body{
-	font-family: Lato, 'Helvetica Neue', Arial, sans-serif;
+html p,body p{
+	/* font-family: Lato, 'Helvetica Neue', Arial, sans-serif; */
+	font-family: 'Crimson Text', Georgia, 'Times New Roman', serif;
+	font-size: 1.15rem;
 }
 
 h1,h2,h3,h4,h5{
