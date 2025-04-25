@@ -213,7 +213,7 @@
         
         <div class="row justify-content-center mt-4">
           <div class="col-12 col-lg-10">
-            <table data-csv="assets/example-data.csv" data-hide-columns="[position,salary]" class="datatable table table-striped table-hover" style="width:100%">
+            <table data-csv="assets/import_thesis_Emotional_Abuse_Allegations_schools.csv" data-hide-columns="[URL]" class="datatable table table-striped table-hover" style="width:100%">
             </table>
           </div>
         </div>
@@ -432,6 +432,14 @@
 
             if(data.length === 0) return;
 
+            data.forEach(function(d,i){
+              if(Object.hasOwn(d, 'Source of Allegation') && Object.hasOwn(d, 'URL') ){
+                if(d['Source of Allegation'] != '' && d['URL'] != ''){
+                  d['Source of Allegation'] = `<a href="${d['URL']}" target="_blank">${d['Source of Allegation']}</a>`;
+                }
+              }
+            })
+
             const keys = Object.keys(data[0]); //keys are column headers
             let columns = keys.map(function(d){return Object({'data': d, 'title':d.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}) });
 
@@ -445,6 +453,7 @@
               columns: columns,
               lengthChange: false,
               pagingType: "simple_numbers",
+              order: [],
               layout: {
                   top: 'search',
                   topEnd: null
@@ -456,23 +465,6 @@
                 
                 const table = this.api(); // Get the DataTables API instance
 
-                $('tbody', $table).on('click', 'tr', function() {
-                    const rowData = table.row(this).data();
-                    
-                    if(!rowData) return;
-
-                    let html = '<dl class="row">';
-                    Object.entries(rowData).forEach(([key, value]) => {
-                      html += `<dt class="col-sm-3">${key.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}</dt><dd class="col-sm-9">${value}</dd>`;
-                    });
-                    html += '</dl>';
-
-                    $('#rowModalContent').html(html);
-
-                    const modal = new bootstrap.Modal(document.getElementById('rowModal'));
-                    modal.show();
-                    
-                }).css("cursor","pointer");
               }
               });
 
