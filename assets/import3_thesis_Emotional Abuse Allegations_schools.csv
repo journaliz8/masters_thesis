@@ -1,9 +1,9 @@
-School,Team Gender,Sport,Earliest Known Date of Reported Allegation,Source of Allegation,URL,Source Type
+School,Team Gender,Sport,Year of Reported Allegation,Source of Allegation,URL,Source Type
 Duke University,Mixed gender,Track and Field / Cross Country,2023,Duke Chronicle,https://www.dukechronicle.com/article/2024/08/duke-cross-country-track-and-field-coach-angela-reckart-departure-neglect-shawn-wilbourn-armentrout-kreis-gabay,News outlet
 Florida State University ,Mixed gender,Swimming and Diving,2020,2adays Coach Review Website,https://www.2adays.com/coaches/neal-studd-41224?gad_source=1&gbraid=0AAAAADSR4hNNySj1RMmDnWLlxniJXkJzn&gclid=Cj0KCQjw_JzABhC2ARIsAPe3ynoLtgX2NjJFEZRvZ1GDME-C3nMbFEtaPmfK_2rrQjOEZM2fc5qtkgEaAhTCEALw_wcB,Coach review website
-Georgetown University,Womens,Basketball,2013,Open Letter to President Mark Emmert of the NCAA - Abuse Must End,https://drive.google.com/drive/folders/1h6BVaFC7DXAgt8YgC4zduCQoAxoIsa9l,Open Letter to President Mark Emmert of... the Areas of Real Estate & Sports Law.pdf
+Georgetown University,Womens,Basketball,2013,Open Letter to President Mark Emmert of the NCAA - Abuse Must End,https://drive.google.com/file/d/1yTfON0_QbH38AS9NcIwZc-1eeuZkwMsx/view?usp=sharing,Open Letter to President Mark Emmert of... the Areas of Real Estate & Sports Law.pdf
 Harvard College,Womens,Ice Hockey,2017,The Athletic ,https://theathletic.com/4288145/2023/03/10/harvard-womens-hockey-mistreatment-hazing-katey-stone/?source=emp_shared_article,News outlet
-Holy Cross College,Womens,Basketball,2011,Open Letter to President Mark Emmert of the NCAA - Abuse Must End,https://drive.google.com/drive/folders/1h6BVaFC7DXAgt8YgC4zduCQoAxoIsa9l,Open Letter to President Mark Emmert of... the Areas of Real Estate & Sports Law.pdf
+Holy Cross College,Womens,Basketball,2011,Open Letter to President Mark Emmert of the NCAA - Abuse Must End,https://drive.google.com/file/d/1yTfON0_QbH38AS9NcIwZc-1eeuZkwMsx/view?usp=sharing,Open Letter to President Mark Emmert of... the Areas of Real Estate & Sports Law.pdf
 Iowa State University,Womens,Volleyball,2021,Interview with on the record student ,,Social media
 Lafayette College,Womens,Volleyball,2013,Facebook post,https://www.facebook.com/groups/521837321963990/user/1013613307/,Social media
 Louisiana Tech University,Womens,Soccer,2017,Interview with expert and former student-athlete,,Interview
@@ -29,7 +29,7 @@ Swarthmore College,Womens,Basketball,2020,Swarthmore Phoenix,https://swarthmorep
 University of Arkansas,Womens,Volleyball,2015,Inside Higher Ed,https://www.insidehighered.com/news/2015/12/17/u-arkansas-volleyball-coach-resigns-after-letter-accuses-him-abuse,News outlet
 "University of California, Berkeley",Mixed gender,Cheerleading,2017,The Guardian,https://www.theguardian.com/sport/2019/oct/02/cal-cheerleader-concussion-lawsuit-melissa-martin,News outlet
 University of Cincinnati,Womens,Volleyball,2019,ESPN,https://www.espn.com/espn/story/_/id/22942029/ex-cincinnati-volleyball-player-says-was-kicked-team-due-photos,News outlet
-University of Illinois ,Womens,Basketball,2015,Open Letter to President Mark Emmert of the NCAA - Abuse Must End,https://drive.google.com/drive/folders/1h6BVaFC7DXAgt8YgC4zduCQoAxoIsa9l,Open Letter to President Mark Emmert of... the Areas of Real Estate & Sports Law.pdf
+University of Illinois ,Womens,Basketball,2015,Open Letter to President Mark Emmert of the NCAA - Abuse Must End,https://drive.google.com/file/d/1yTfON0_QbH38AS9NcIwZc-1eeuZkwMsx/view?usp=sharing,Open Letter to President Mark Emmert of... the Areas of Real Estate & Sports Law.pdf
 University of Illinois ,Mens,Football,2015,CNN,https://www.cnn.com/2015/08/28/us/university-illinois-coach-fired/index.html,News outlet
 A public university of Michigan ,In process of verifying,In process of verifying,In process of verifying,Anonymous source,,Received a tip
 A public university in Missouri,In process of verifying,In process of verifying,In process of verifying,Anonymous source,,Received a tip
@@ -55,7 +55,7 @@ Assumption College,Mens,Lacrosse,2017,2adays Coach Review Website ,https://www.2
 Arkansas Tech University,Womens,Volleyball,2022,2adays Coach Review Website,https://www.2adays.com/coaches/kera-dukic-53145,Coach review website
 Ball State University ,Mixed gender,Gymnastics,2020,2adays Coach Review Website,https://www.2adays.com/coaches/joanna-saleem-34340,Coach review website
 Boise State University ,Womens,Swimming and Diving,2014,Podcast epsiode ,https://andtheneverythingchangedpodcast.com/episode-69/,Podcast
-Boston University,Womens,Basketball,2014,Open Letter to President Mark Emmert of the NCAA - Abuse Must End,https://drive.google.com/drive/folders/1h6BVaFC7DXAgt8YgC4zduCQoAxoIsa9l,Open Letter to President Mark Emmert of... the Areas of Real Estate & Sports Law.pdf
+Boston University,Womens,Basketball,2014,Open Letter to President Mark Emmert of the NCAA - Abuse Must End,https://drive.google.com/file/d/1yTfON0_QbH38AS9NcIwZc-1eeuZkwMsx/view?usp=sharing,Open Letter to President Mark Emmert of... the Areas of Real Estate & Sports Law.pdf
 Bowling Green State University,Womens,Soccer,2018,Des Moines Register,https://www.desmoinesregister.com/story/sports/college/iowa-state/2022/10/26/iowa-state-womens-college-soccer-coach-verbally-abusive-title-ix-matt-fannon/10389295002/,News outlet
 Brandeis University ,Womens,Volleyball,2024,Interview with on the record student,,Interview
 California Polytechnic State University,Mixed gender,Swimming and Diving,2020,Mustang News,https://mustangnews.net/cal-poly-swim-and-dive-coach-on-indefinite-leave/,News outlet
@@ -63,14 +63,14 @@ California State University San Marcos ,Womens,Basketball,2014,NBC News San Dieg
 "California State University, Fullerton",Womens,Basketball,2016,Daily Titan ,https://dailytitan.com/news/daron-park-exits-cal-state-fullerton-women-s-basketball-amid-allegations-of-misconduct/article_50e77f1c-c766-5f2a-a798-fc430b9edf77.html,News outlet
 Clemson University ,Mens,Football,2023,Terry Kinard Facebook post,https://www.facebook.com/terry.kinard2/posts/pfbid035WJX9Gzh2ART6o6xhcm3BJo6We8LhLpPuvQacpiNkipNXod2JpE35wEYtzpPn72sl,Social media
 Colgate University ,Womens,Lacrosse,2022,Democrat and Chronicle,https://www.democratandchronicle.com/story/news/2024/05/23/kathy-taylor-controversial-colgate-lacrosse-coach-resigns/73819895007/,News outlet
-College of Charleston,Mens,Basketball,2012,Open Letter to President Mark Emmert of the NCAA - Abuse Must End,https://drive.google.com/drive/folders/1h6BVaFC7DXAgt8YgC4zduCQoAxoIsa9l,Open Letter to President Mark Emmert of... the Areas of Real Estate & Sports Law.pdf
+College of Charleston,Mens,Basketball,2012,Open Letter to President Mark Emmert of the NCAA - Abuse Must End,https://drive.google.com/file/d/1yTfON0_QbH38AS9NcIwZc-1eeuZkwMsx/view?usp=sharing,Open Letter to President Mark Emmert of... the Areas of Real Estate & Sports Law.pdf
 Dartmouth College,Mens,Track and Field / Cross Country,2023,The Dartmouth,https://www.thedartmouth.com/article/2024/02/coaching-changes-athlete-turnover-and-injuries-abound-former-mens-cross-country-and-track-runners-expose-challenges-of-past-two-years,News outlet
 East Tennessee State University,Womens,Softball ,2022,Hope for Athletes Instagram ,https://www.instagram.com/hopeforathletes/?hl=en,Instagram 
 Harvard College,Mixed gender,Track and Field / Cross Country,2022,Interview with former student-athlete,,Interview
 Harvard College,Womens,Track and Field / Cross Country,2016,Interview with former student-athlete,,Interview
 Harvard College,Womens,Track and Field / Cross Country,2014,Interview with former student-athlete,,Interview
 Iowa State University ,Womens,Soccer,2019,Des Moines Register,https://www.desmoinesregister.com/story/sports/college/iowa-state/2022/10/26/iowa-state-womens-college-soccer-coach-verbally-abusive-title-ix-matt-fannon/10389295002/,News outlet
-Jacksonville University,Mixed gender,Track and Field / Cross Country,2021,Lawsuit,https://drive.google.com/drive/folders/1h6BVaFC7DXAgt8YgC4zduCQoAxoIsa9l,Lawsuit
+Jacksonville University,Mixed gender,Track and Field / Cross Country,2021,Lawsuit,https://docs.google.com/document/d/1j4r1mCVm3DnRZbCtj41mQ2Q932eGuR_v6FvI6RfEJwc/edit?usp=sharing,Lawsuit
 Lafayette College,Mixed gender,Track and Field / Cross Country,2023,2adays Coach Review Website,https://www.2adays.com/coaches/michele-curcio-29783?star=1,Coach review website
 Louisiana State University,Womens,Gymnastics,2023,Washington Post,https://www.washingtonpost.com/sports/2023/11/20/utah-gymnastics-tom-farden-ncaa/,News outlet
 Massachusetts Institute of Technology,Mixed gender,Track and Field / Cross Country,2011,"Interview with former student-athlete, on the record",,Interview
